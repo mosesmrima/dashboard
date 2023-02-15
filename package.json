@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "antd": "^5.2.1",
+    "framer-motion": "^9.0.2",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.8.1"
+  }
+}
